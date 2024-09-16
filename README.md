@@ -34,6 +34,7 @@ images
    - home.png
    - mute.png
    - Pause.png
+
 music
    - (Music files with extensions: .ogg, .mp3, .wav)
 

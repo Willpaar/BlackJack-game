@@ -35,7 +35,7 @@ images
    - mute.png
    - Pause.png
 
-music
+Music
    - (Music files with extensions: .ogg, .mp3, .wav)
 
 3.	Run the game by executing:

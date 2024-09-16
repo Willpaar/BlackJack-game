@@ -22,7 +22,7 @@ We created a Blackjack game built using Python and the Pygame library. The game 
 2.	Pygame: Install the Pygame library via pip:
 Installation
 1.	Download or clone this repository.
-2.	Ensure the following folder structure exists:
+2.	unzip images and file folders and Ensure the following folder structure exists:
 
 images
    - saloon_background.jpg
@@ -34,7 +34,7 @@ images
    - home.png
    - mute.png
    - Pause.png
-/music
+music
    - (Music files with extensions: .ogg, .mp3, .wav)
 
 3.	Run the game by executing:
